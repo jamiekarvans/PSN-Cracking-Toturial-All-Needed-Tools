@@ -2,7 +2,7 @@
   <a href="google.com" target="_blank" rel="noopener noreferrer">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://jeeco.ir/wp-content/uploads/edd/2018/09/Django.png">
-      <img width="200" height="200" src="https://jeeco.ir/wp-content/uploads/edd/2018/09/Django.png">
+      <img width="500" height="500" src="https://jeeco.ir/wp-content/uploads/edd/2018/09/Django.png">
     </picture>
   </a>
 </p>
